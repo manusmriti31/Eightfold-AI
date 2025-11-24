@@ -248,7 +248,7 @@ Edit `src/llm/llm_config.py`:
 
 ```python
 model = ChatGoogleGenerativeAI(
-    model="gemini-2.0-flash-exp",  # or "gemini-1.5-pro"
+    model="gemini-2.0-flash",  # or "gemini-2.5-pro"
     temperature=0.7
 )
 ```

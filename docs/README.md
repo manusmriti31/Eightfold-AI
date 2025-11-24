@@ -16,9 +16,6 @@ This folder contains all project documentation.
 - **[API_KEYS.md](API_KEYS.md)** - API keys setup and configuration
 - **[TOOLS.md](TOOLS.md)** - Available tools and integrations
 
-### Development
-- **[IMPLEMENTATION_PLAN.md](IMPLEMENTATION_PLAN.md)** - Development roadmap and progress
-
 ---
 
 ## 🚀 Quick Links

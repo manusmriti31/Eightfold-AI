@@ -1,0 +1,30 @@
+# Core Dependencies
+langgraph>=0.2.52
+langsmith>=0.1.147
+langchain-community>=0.3.8
+langchain-google-genai>=2.0.0
+tavily-python>=0.5.0
+
+# UI
+streamlit>=1.28.0
+
+# Visualization
+plotly>=5.18.0
+kaleido>=0.2.1
+
+# Financial Data
+yfinance>=0.2.32
+
+# PDF Processing
+PyPDF2>=3.0.0
+pdfplumber>=0.10.0
+
+# SEC Filings
+sec-edgar-downloader>=5.0.0
+
+# HTTP Requests
+aiohttp>=3.9.0
+
+# Development Tools (optional)
+mypy>=1.11.1
+ruff>=0.6.1

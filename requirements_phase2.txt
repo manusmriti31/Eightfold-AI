@@ -1,9 +1,0 @@
-# Phase 2: Report Formatting & Visualization Dependencies
-
-# Visualization libraries
-plotly>=5.18.0          # Interactive charts and graphs
-kaleido>=0.2.1          # Static image export for plotly
-
-# Optional: For PDF export (Phase 3)
-# weasyprint>=60.0      # HTML to PDF conversion
-# reportlab>=4.0.0      # PDF generation

@@ -1,0 +1,16 @@
+# Phase 3: Advanced Enhancements Dependencies
+
+# Stock market data
+yfinance>=0.2.32          # Yahoo Finance for stock data
+
+# PDF processing
+PyPDF2>=3.0.0             # PDF text extraction
+pdfplumber>=0.10.0        # Advanced PDF parsing
+
+# SEC filings
+sec-edgar-downloader>=5.0.0  # Download SEC filings
+
+# Already have these (no need to reinstall):
+# - tavily-python (web search)
+# - langchain-google-genai (LLM)
+# - plotly (charts)
